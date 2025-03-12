@@ -1,4 +1,4 @@
-# CarroPoo
+# Carro POO
 
 Este projeto é uma simulação bem simples de um carro utilizando Programação Orientada a Objetos (POO) em C#. Usa o conceito de classes e métodos.
 
